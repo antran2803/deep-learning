@@ -1,1 +1,6 @@
 \hwk
+
+# Generated files for week 10 experiments
+Tuan10/DL_SGU/runs/
+Tuan10/DL_SGU/**/__pycache__/
+Tuan10/DL_SGU/**/*.py[cod]
