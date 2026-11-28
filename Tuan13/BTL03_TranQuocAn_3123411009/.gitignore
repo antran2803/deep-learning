@@ -1,0 +1,11 @@
+# Dữ liệu (ảnh, npz, csv, npy) – tải theo hướng dẫn trong README, không đưa lên git
+data/
+
+# Kết quả sinh ra khi chạy notebook (checkpoint, log)
+outputs/
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,22 @@
+# Không đưa ảnh và dataset lên git (chỉ giữ code, README, báo cáo)
+# Ảnh ở mọi thư mục con của Tuan13
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.gif
+*.bmp
+
+# File nén dataset (examples.zip, car_data.zip > 100 MB – GitHub từ chối file > 100 MB)
+*.zip
+
+# Dữ liệu và kết quả sinh ra khi chạy
+**/data/
+**/outputs/
+*.npz
+*.npy
+*.pt
+*.pth
+*.h5
+*.hdf5
